@@ -1,0 +1,22 @@
+[
+  { "device": "192.168.0.0", "temperature": 23.5, "humidity": 60.0 },
+  { "device": "192.168.0.0", "temperature": 25.1, "humidity": 55.3 },
+  { "device": "192.168.0.0", "temperature": 22.0, "humidity": 65.7 },
+  { "device": "192.168.0.0", "temperature": 21.8, "humidity": 70.1 },
+  { "device": "192.168.0.0", "temperature": 26.3, "humidity": 58.5 },
+  { "device": "192.168.0.0", "temperature": 24.2, "humidity": 63.4 },
+  { "device": "192.168.0.0", "temperature": 27.1, "humidity": 60.8 },
+  { "device": "192.168.0.0", "temperature": 22.6, "humidity": 62.0 },
+  { "device": "192.168.0.0", "temperature": 28.4, "humidity": 59.9 },
+  { "device": "192.168.0.0", "temperature": 25.9, "humidity": 64.3 }
+]
+
+// user
+{
+  "username": "johndoe",
+  "password": "123456",
+  "device": "192.168.1.10",
+  "pumpMode": "timebased",
+  "firstTime": "07:00",
+  "secondTime": "16:00"
+}
